@@ -1,0 +1,10 @@
+{
+    "name": "scrap-no-solid-fuel",
+    "version": "0.1.0",
+    "title": "Scrap Yields No Solid Fuel",
+    "author": "Jarred Allen",
+    "homepage": "https://github.com/JarredAllen/factorio-scrap-no-solid-fuel",
+    "description": "Make scrap recycling yield no solid fuel",
+    "factorio_version": "2.0",
+    "dependencies": ["space-age"]
+}
